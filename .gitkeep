@@ -1,0 +1,4 @@
+New-Item docs\processes\pdf\.gitkeep
+New-Item docs\processes\images\.gitkeep
+New-Item automations\logs\.gitkeep
+New-Item automations\downloads\.gitkeep
